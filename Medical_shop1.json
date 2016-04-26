@@ -1,0 +1,1186 @@
+{
+    "shops": [{
+            "tel": "+(91)-9582285124",
+            "add": "kasna mai market, kasna, Greater Noida, Noida - 201310",
+            "comp_name": "Durga medical store",
+            "timing": "07:00 am - 09:00 pm",
+            "lat": "28.434922000000",
+            "lang": "77.537955000000"
+    }
+    , {
+            "tel": "+(91)-9871003854",
+            "add": "lekhraj manager market, kasna market, Greater Noida, Noida - 201310, near bust stand",
+            "comp_name": "Hygiene pharmacy",
+            "timing": "08:30 am - 10:00 pm",
+            "lat": "28.437030000000",
+            "lang": "77.543717000000"
+    }
+    , {
+            "tel": "+(91)-9718567475",
+            "add": "kasna , Greater Noida, Noida - 201310, near kasna bus stand",
+            "comp_name": "Hygiene pharmacy",
+            "timing": "09:30 am - 08:00 pm",
+            "lat": "28.437012000000",
+            "lang": "77.543678000000"
+    }
+    , {
+            "tel": "+(91)-9718257565",
+            "add": "Kasna main road, kasna, Greater Noida, Noida - 201310, near bus stand",
+            "comp_name": "Life care pharmacy",
+            "timing": "10:00 am - 09:00 pm",
+            "lat": "28.436728000000",
+            "lang": "77.543342000000"
+    }
+    , {
+            "tel": "+(91)-9311072764",
+            "add": "harish bhati market, Kasna, Greater Noida, Noida - 201310, near bus stop",
+            "comp_name": "Nagar medical store",
+            "timing": "09:30 am - 09:00 pm",
+            "lat": "28.436930000000",
+            "lang": "77.544822000000"
+    }
+    , {
+            "tel": "+(91)-9990496516",
+            "add": "Shop no 42, main road GBTU university, Greater Noida, Noida - 201310, Near bus stand kasna",
+            "comp_name": "Rama Medical store",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.436200000000",
+            "lang": "77.543603000000"
+    }
+    , {
+            "tel": "+(91)-9540938407",
+            "add": "shop no 17, harveer pahelwan market, Kasna, Noida - 201310, Near bus stand",
+            "comp_name": "Vidha medical store",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.436178000000",
+            "lang": "77.543647000000"
+    }
+    , {
+            "tel": "+(91)-11-33057499",
+            "add": "Shop Number 7, J M Orchid Market Plaza, Noida Sector 76, Noida - 201304, Near J M Orchid Society",
+            "comp_name": "Feelfine Medicos",
+            "timing": "08:00 am - 11:00 pm",
+            "lat": "28.527480000000",
+            "lang": "77.392417000000"
+    }
+    , {
+            "tel": "+(91)-11-33452016",
+            "add": "Shop Number 9, Lagerstroemia Shopping Center, Knowledge Park I-greater Noida, Noida - 201310, Near Kailash Hospital",
+            "comp_name": "Ratan Medicos Pvt Ltd",
+            "timing": "09:30 am - 10:00 pm",
+            "lat": "28.470165250000",
+            "lang": "77.505889888889"
+    }
+    , {
+            "tel": "+(91)-9999880510",
+            "add": "Shop No. 14,FF,AWHO society, P3 street,awho, Greater Noida, Noida - 201310, Near jalvayu vihar",
+            "comp_name": "Rx PharmA",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.444637000000",
+            "lang": "77.511322000000"
+    }
+    , {
+            "tel": "+(91)-9350791663",
+            "add": "Kalicharan market, kasna, Greater Noida, Noida - 201310, near bus stop",
+            "comp_name": "K.C bhati medical store",
+            "timing": "08:00 am - 09:30 pm",
+            "lat": "28.438513000000",
+            "lang": "77.539817000000"
+    }
+    , {
+            "tel": "+(91)-9999884820",
+            "add": "kalicharan market, kasna, Greater Noida, Noida - 201310, near mandir",
+            "comp_name": "New life line medical store",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.437997000000",
+            "lang": "77.539513000000"
+    }
+    , {
+            "tel": "+(91)-9999884820",
+            "add": "kalicharan market, kasna, Greater Noida, Noida - 201310, near mandir",
+            "comp_name": "New life line medical store",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.437997000000",
+            "lang": "77.539513000000"
+    }
+    , {
+            "tel": "+(91)-8800787016",
+            "add": "University road, Noida - 201310, near government hospital",
+            "comp_name": "Shiv medicose",
+            "timing": "09:00 am - 08:30 pm",
+            "lat": "28.434437000000",
+            "lang": "77.535325000000"
+    }
+    , {
+            "tel": "+(91)-7428094899",
+            "add": "University Road Kasna, Greater Noida, Noida - 201310, Near GBTU",
+            "comp_name": "Rathi Medical Store",
+            "timing": "10:00 am - 08:00 pm",
+            "lat": "28.434492000000",
+            "lang": "77.535630000000"
+    }
+    , {
+            "tel": "+(91)-9312553167",
+            "add": "Aiicher mkt, sect pi-1st , Greater Noida, Noida - 201310, Near axis bank atm",
+            "comp_name": "Bharat Medical Store",
+            "timing": "09:00 am - 09:00 pm",
+            "lat": "28.464645000000",
+            "lang": "77.541138000000"
+    }
+    , {
+            "tel": "+(91)-9871907039",
+            "add": "Main market aiicher, sector pi-1st, Greater Noida, Noida - 201310, near hutch tower",
+            "comp_name": "Super India Medicose",
+            "timing": "09:00 am - 10:00 pm",
+            "lat": "28.463933000000",
+            "lang": "77.541047000000"
+    }
+    , {
+            "tel": "+(91)-9540250047",
+            "add": "hans raj bhati markey, sect pi-1st,aiicher, Greater Noida, Noida - 201310, near hutch tower",
+            "comp_name": "Pradeep medical store",
+            "timing": "10:00 am - 09:30 pm",
+            "lat": "28.463603000000",
+            "lang": "77.541030000000"
+    }
+    , {
+            "tel": "+(91)-9911305136",
+            "add": "shop no 8, bijendra singh bhati market, sector pi-1st, Greater Noida, Noida - 201310, aiicher",
+            "comp_name": "Health care pharmacy",
+            "timing": "08:30 am - 10:00 pm",
+            "lat": "28.463150000000",
+            "lang": "77.541113000000"
+    }
+    , {
+            "tel": "+(91)-8447731029",
+            "add": "B-4, msx mall, Upsidc site 4, Greater Noida, Noida - 201310, Aside honeymoney top",
+            "comp_name": "SANYOG PHARMACY",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.458445000000",
+            "lang": "77.528970000000"
+    }
+    , {
+            "tel": "+(91)-7838716162",
+            "add": "gf-24,awho market, awho, Greater Noida, Noida - 201310, near p2 market",
+            "comp_name": "Sri hari medical centre",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.445637000000",
+            "lang": "77.509125000000"
+    }
+    , {
+            "tel": "+(91)-9999880510",
+            "add": "Shop No. 14,FF,AWHO society, P3 street,awho, Greater Noida, Noida - 201310, Near jalvayu vihar",
+            "comp_name": "Rx PharmA",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.444637000000",
+            "lang": "77.511322000000"
+    }
+    , {
+            "tel": "+(91)-9958241565",
+            "add": "nayak mandya market, kasna, Greater Noida, Noida - 201310, near bus stand",
+            "comp_name": "Nayak medical store",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.447655000000",
+            "lang": "77.546312000000"
+    }
+    , {
+            "tel": "+(91)-8826180272",
+            "add": "Shop no 16 commercial complex , P2 sector market,sector omega-1st, Greater Noida, Noida - 201310, near yamuna authority",
+            "comp_name": "Higlance pharmacy",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.453222000000",
+            "lang": "77.509230000000"
+    }
+    , {
+            "tel": "+(91)-9456663690",
+            "add": "Main market aiicher, sect pi-1st, Greater Noida, Noida - 201310, near rakhi medical centre",
+            "comp_name": "Jai durge medical store",
+            "timing": "07:00 am - 09:00 pm",
+            "lat": "28.466025000000",
+            "lang": "77.541337000000"
+    }
+    , {
+            "tel": "+(91)-8750063216",
+            "add": "sharma market, sect pi-1st, Greater Noida, Noida - 201310, aiicher",
+            "comp_name": "Sidh medical store",
+            "timing": "08:00 am - 09:30 pm",
+            "lat": "28.465392000000",
+            "lang": "77.539087000000"
+    }
+    , {
+            "tel": "+(91)-7503361035",
+            "add": "pal markett, sector pi-1st, Greater Noida, Noida - 201310, near primary school",
+            "comp_name": "Krishna medical store",
+            "timing": "07:00 am - 10:00 pm",
+            "lat": "28.465778000000",
+            "lang": "77.541022000000"
+    }
+    , {
+            "tel": "+(91)-9990868777",
+            "add": "Shop no 1, sharma market, sec-pi-1, Greater Noida, Noida - 201310, sabjimandi road",
+            "comp_name": "Siddh medical store",
+            "timing": "09:30 am - 10:00 pm",
+            "lat": "28.465180000000",
+            "lang": "77.539008000000"
+    }
+    , {
+            "tel": "+(91)-9810720972",
+            "add": "Shop 17, Sec P2 market complex, Sector omega-1st, Greater Noida, Noida - 201310, Opposite yatharth hospital",
+            "comp_name": "RADHA MEDICAL HALL",
+            "timing": "08:00 am - 09:30 pm",
+            "lat": "28.451372000000",
+            "lang": "77.509103000000"
+    }
+    , {
+            "tel": "+(91)-7503014030",
+            "add": "main aiicher market, sect pi-1st, Greater Noida, Noida - 201310, near pnb atm",
+            "comp_name": "Rama medical store",
+            "timing": "08:30 am - 10:00 pm",
+            "lat": "28.464672000000",
+            "lang": "77.539003000000"
+    }
+    , {
+            "tel": "+(91)-7827737875",
+            "add": "kasna market, sector pi-1st, Greater Noida, Noida - 201310, near obc bank",
+            "comp_name": "Sai chemist",
+            "timing": "09:00 am - 10:30 pm",
+            "lat": "28.464638000000",
+            "lang": "77.539008000000"
+    }
+    , {
+            "tel": "+(91)-9540980062",
+            "add": "Chaudhary Muniram Market, Aiicher, Sec pi-1st, Greater Noida, Noida - 201310, Near eldeco greens",
+            "comp_name": "Harsh Medical Store",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.464442000000",
+            "lang": "77.539680000000"
+    }
+    , {
+            "tel": "+(91)-9350857178",
+            "add": "Subash Pradhan Jii Market, Sector Pi-1st, Greater Noida, Noida - 201310, Near HDFC ATM",
+            "comp_name": "National Medical Store",
+            "timing": "10:00 am - 08:00 pm",
+            "lat": "28.464675000000",
+            "lang": "77.541030000000"
+    }
+    , {
+            "tel": "+(91)-8860230195",
+            "add": "Shop no 9 j s plaza basment, tugalpur greater noida, Greater Noida, Noida - 201310, near ansal plaza and pari chowk",
+            "comp_name": "Ritesh pharmacy",
+            "timing": "10:00 am - 08:00 pm",
+            "lat": "28.465850000000",
+            "lang": "77.508163000000"
+    }
+    , {
+            "tel": "+(91)-9910837527",
+            "add": "Suraj pradhan market, tugalpur, Greater Noida, Noida - 201310, Behind ansal",
+            "comp_name": "Shiv Shankar Medicos Store",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.464783000000",
+            "lang": "77.506845000000"
+    }
+    , {
+            "tel": "+(91)-9312529894",
+            "add": "Main Market , tugalpur, Knowledge Park Ii-Greater Noida, Noida - 201310, near ansal plaza",
+            "comp_name": "Family Medicos",
+            "timing": "09:00 am - 07:00 pm",
+            "lat": "28.466000000000",
+            "lang": "77.504333000000"
+    }
+    , {
+            "tel": "+(91)-9717202194",
+            "add": "Bhagwat market , main market, Tughalpur Village, Noida - 201310, near ansal plaza",
+            "comp_name": "Shyam Medical Store",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.464300000000",
+            "lang": "77.508030000000"
+    }
+    , {
+            "tel": "+(91)-9818744916",
+            "add": "Dalgir market,main tugalpur, Tugalpur, Greater Noida, Noida - 201310, Near ansal plaza",
+            "comp_name": "Om medicle store",
+            "timing": "07:00 am - 09:00 pm",
+            "lat": "28.462912000000",
+            "lang": "77.506012000000"
+    }
+    , {
+            "tel": "+(91)-9716311616",
+            "add": "Kheda Chauganpur, Knowledge park 5th, Greater Noida, Noida - 201310, near amrapali mall",
+            "comp_name": "Krishna medicos Store",
+            "timing": "08:00 am - 08:00 pm",
+            "lat": "28.456507063720",
+            "lang": "77.506357763771"
+    }
+    , {
+            "tel": "+(91)-9411993771",
+            "add": "nh-33 , Omega-1, Greater Noida, Noida - 201310, near yatharth hospital",
+            "comp_name": "Brij medical store",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.456507063720",
+            "lang": "77.506357763771"
+    }
+    , {
+            "tel": "+(91)-9350683636",
+            "add": "Ram Bhol Market,Aiicher, Sector pi-1st, Greater Noida, Noida - 201310, near primary school",
+            "comp_name": "SHARMA MEDICAL STORE",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.467337000000",
+            "lang": "77.541070000000"
+    }
+    , {
+            "tel": "+(91)-9350481250",
+            "add": "Shop no 5, Main road , Greater Noida, Noida - 201310, Ghori Bachhera",
+            "comp_name": "Medical store",
+            "timing": "10:00 am - 09:30 pm",
+            "lat": "28.479342000000",
+            "lang": "77.573137000000"
+    }
+    , {
+            "tel": "+(91)-8595024072",
+            "add": "main market, tugur, Greater Noida, Noida - 201310, behind ansal plaza",
+            "comp_name": "Vijay medical store",
+            "timing": "09:00 am - 09:00 pm",
+            "lat": "28.465372000000",
+            "lang": "77.504005000000"
+    }
+    , {
+            "tel": "+(91)-7838543284",
+            "add": "Main market, tugalpur, Greater Noida, Noida - 201310, chakki vali gali",
+            "comp_name": "PUBLIC MEDICAL STORE",
+            "timing": "07:00 am - 09:00 pm",
+            "lat": "28.465120000000",
+            "lang": "77.504228000000"
+    }
+    , {
+            "tel": "+(91)-9717202194",
+            "add": "Bhagwat Mkt, Tugalpur, Greater Noida, Noida - 201310, Behind Ansal Plaza",
+            "comp_name": "Shyam medical store",
+            "timing": "09:30 am - 09:00 pm",
+            "lat": "28.466500000000",
+            "lang": "77.507167000000"
+    }
+    , {
+            "tel": "+(91)-9891369962",
+            "add": "bhagvat market, shop no. 2, Greater Noida, Noida - 201310, near ansal plaza",
+            "comp_name": "Shyam medical store",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.466378000000",
+            "lang": "77.507142000000"
+    }
+    , {
+            "tel": "+(91)-9650380384",
+            "add": "Shop no.-22, Tugalpur, Greater Noida, Noida - 201310, Nr ansal plaza",
+            "comp_name": "M ram medical store",
+            "timing": "07:00 am - 09:30 pm",
+            "lat": "28.465667000000",
+            "lang": "77.507667000000"
+    }
+    , {
+            "tel": "+(91)-9759947580",
+            "add": "Sharma market tugalpur, Greater Noida, Noida - 201310, Behind ansal plaza",
+            "comp_name": "Bharat store",
+            "timing": "10:00 am - 08:30 pm",
+            "lat": "28.465833000000",
+            "lang": "77.508000000000"
+    }
+    , {
+            "tel": "+(91)-7500866250",
+            "add": "Shop no 22,tugalpur, CP market, Greater Noida, Noida - 201310, Backside of ansal plaza",
+            "comp_name": "Shri Krishna medical agency",
+            "timing": "09:00 am - 10:30 pm",
+            "lat": "28.465625000000",
+            "lang": "77.507767000000"
+    }
+    , {
+            "tel": "+(91)-8285219051",
+            "add": "Shop no 8, Sharma market tugalpur , Knowledge Park I-Greater Noida, Noida - 201310, Behind Ansal plaza",
+            "comp_name": "Bharat medical store",
+            "timing": "08:30 am - 09:00 pm",
+            "lat": "28.465755000000",
+            "lang": "77.507995000000"
+    }
+    , {
+            "tel": "+(91)-9350678452",
+            "add": "Shop No G-19, Greater Noida, Noida - 201310, Rampur Jagir,C M Mkt",
+            "comp_name": "Harsh Homepathic Store",
+            "timing": "09:00 am - 08:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9555868783",
+            "add": "Main market, Tugalpur, Greater Noida, Noida - 201310",
+            "comp_name": "Muskan medical store",
+            "timing": "09:30 am - 10:00 pm",
+            "lat": "28.466858000000",
+            "lang": "77.504670000000"
+    }
+    , {
+            "tel": "+(91)-8745031688",
+            "add": "Tradex Tower 1, Comercial Belt, Greater Noida, Noida - 201310, Behind Blue Dart",
+            "comp_name": "Aims Pharmacy",
+            "timing": "12:00 am - 11:59 pm",
+            "lat": "28.469797000000",
+            "lang": "77.509720000000"
+    }
+    , {
+            "tel": "+(91)-7503883580",
+            "add": "main market, tugalpur, Greater Noida, Noida - 201310, near laxmi dairy",
+            "comp_name": "Muskan medicos",
+            "timing": "10:00 am - 10:00 pm",
+            "lat": "28.466867000000",
+            "lang": "77.504722000000"
+    }
+    , {
+            "tel": "+(91)-9810152867",
+            "add": "Shop no g-1, parasavnath plaza, Alpha-1, Greater Noida, Noida - 201310, Near vodafone store",
+            "comp_name": "APOLLO PHARMACY",
+            "timing": "08:00 am - 11:00 pm",
+            "lat": "28.471603000000",
+            "lang": "77.513572000000"
+    }
+    , {
+            "tel": "+(91)-9540861142",
+            "add": "Main market tugulpur, Greater Noida, Noida - 201310, Behind ansal",
+            "comp_name": "Gagan medicos",
+            "timing": "10:30 am - 08:30 pm",
+            "lat": "28.466497000000",
+            "lang": "77.504622000000"
+    }
+    , {
+            "tel": "+(91)-9650787161",
+            "add": "Main market, Tugalpur, Greater Noida, Noida - 201310",
+            "comp_name": "Rohit medical store",
+            "timing": "09:00 am - 10:00 pm",
+            "lat": "28.466333000000",
+            "lang": "77.504500000000"
+    }
+    , {
+            "tel": "+(91)-9540413772",
+            "add": "Main market tugalpur, Greater Noida, Noida - 201310, Near Brijwasi Restaurant",
+            "comp_name": "ROHIT Medical Store",
+            "timing": "10:00 am - 09:00 pm",
+            "lat": "28.466167000000",
+            "lang": "77.504333000000"
+    }
+    , {
+            "tel": "+(91)-9999185172",
+            "add": "Shop no 10, Main road, Greater Noida, Noida - 201310, Main road",
+            "comp_name": "Shiv medical store",
+            "timing": "07:00 am - 09:00 pm",
+            "lat": "28.479375000000",
+            "lang": "77.573067000000"
+    }
+    , {
+            "tel": "+(91)-9313058358",
+            "add": "Greater Noida, Noida - 201310, Ch Teja Gurjar Mkt Tugulpur",
+            "comp_name": "Jai medical Store",
+            "timing": "10:00 am - 08:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9811403797",
+            "add": "Shop Number-1, Sector pi-1st, Greater Noida, Noida - 201310, Kasana Market, Vill Aichher, Sector Pi-1st, Near Eldeco Green",
+            "comp_name": "SAI CHEMIST",
+            "timing": "10:00 am - 10:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9871261924",
+            "add": "Main Rd, Greater Noida, Noida - 201310, Kasna",
+            "comp_name": "Bansal Medical Store",
+            "timing": "09:00 am - 09:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9871146477",
+            "add": "Main Rd, Greater Noida, Noida - 201310, Surajpur, G B Ngr",
+            "comp_name": "Goyal Medical Store",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9810904105",
+            "add": "Ch fateh sing mkt., Main dadri , Greater Noida, Noida - 201310, Habibpur",
+            "comp_name": "Sharma medical store",
+            "timing": "09:00 am - 09:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9312637848",
+            "add": "Shop no 3, Teja Gujjar market, tugalpur, Greater Noida, Noida - 201310",
+            "comp_name": "Jai medical stores",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.467128000000",
+            "lang": "77.504897000000"
+    }
+    , {
+            "tel": "+(91)-8750412778",
+            "add": "Greater Noida, Noida - 201310, Vill Rampur Jagir Nr, Sector Beta-1",
+            "comp_name": "Khan Medical Center",
+            "timing": "09:00 am - 10:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9310045906",
+            "add": "Village shaberi, Greater Noida, Noida - 201310, Near crossing Republik,Gautam Budh Nagar",
+            "comp_name": "Balaji Medical Store",
+            "timing": "09:30 am - 06:30 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9310095009",
+            "add": "Shop No 2/20, Greater Noida, Noida - 201310, C Blk ,Alfa-2",
+            "comp_name": "Tulsi Pharma",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9911673414",
+            "add": "Shop no 4, msx tower 2, alpha-1st commercial belt, Greater Noida, Noida - 201310, near sbi bank",
+            "comp_name": "Sharma medicos",
+            "timing": "09:00 am - 09:00 pm",
+            "lat": "28.470378000000",
+            "lang": "77.510375000000"
+    }
+    , {
+            "tel": "+(91)-9717010007",
+            "add": "c-market,shop no .9, c, Alpha 1-Greater Noida, Noida - 201310, commercial belt",
+            "comp_name": "Nishant medical store",
+            "timing": "10:00 am - 09:30 pm",
+            "lat": "28.470397000000",
+            "lang": "77.510430000000"
+    }
+    , {
+            "tel": "+(91)-9312343231",
+            "add": "Dadri main road, surajpur, Greater Noida, Noida - 201310, near police station",
+            "comp_name": "Shivam medical store",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.472812000000",
+            "lang": "77.515372000000"
+    }
+    , {
+            "tel": "+(91)-9313025130",
+            "add": "Ch teja gujjar market , Tugalpur, Greater Noida, Noida - 201310, Near janhit hospital",
+            "comp_name": "Jai medical store",
+            "timing": "07:30 am - 09:30 pm",
+            "lat": "28.467150000000",
+            "lang": "77.504897000000"
+    }
+    , {
+            "tel": "+(91)-9911555635",
+            "add": "Krishna Apra Plaza, Commercial Belt, Alpha 1-Greater Noida, Noida - 201310, Kasana tower",
+            "comp_name": "Greater Noida Wellness Pharmacy",
+            "timing": "09:00 am - 10:00 pm",
+            "lat": "28.470200000000",
+            "lang": "77.510192000000"
+    }
+    , {
+            "tel": "+(91)-9312028446",
+            "add": "Aiicher market, Sector 32, aiicher pi, Greater Noida, Noida - 201310, Near primary school",
+            "comp_name": "Heena medical store",
+            "timing": "09:00 am - 09:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9560413564",
+            "add": "Patram singh market, Sector pi-1st,aiicher, Greater Noida, Noida - 201310, Near HDFC atm",
+            "comp_name": "Sharda medicos",
+            "timing": "09:00 am - 10:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-8447571306",
+            "add": "Shop no 17 harbeer pahalban market , Greater Noida, Noida - 201310, Near obc bank",
+            "comp_name": "Vidha medical centre",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.467544000000",
+            "lang": "77.505567000000"
+    }
+    , {
+            "tel": "+(91)-9540380683",
+            "add": "Shop no G 20, krishana apra plaza, Alpha-1, Greater Noida, Noida - 201310, Near sbi bank",
+            "comp_name": "SHARMA MEDICOS",
+            "timing": "09:30 am - 11:00 pm",
+            "lat": "28.470378000000",
+            "lang": "77.509912000000"
+    }
+    , {
+            "tel": "+(91)-7503721940",
+            "add": "Shop no 1, krishana apra plaza, Alpha1, Greater Noida, Noida - 201310, Near Sbi bank",
+            "comp_name": "Ashirwad pharmacy",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.470372000000",
+            "lang": "77.510042000000"
+    }
+    , {
+            "tel": "+(91)-120-4234227",
+            "add": "Gf -36, Parsavnath Bibhab plaza, Commercial belt, Noida - 201310, Near Honey Money top",
+            "comp_name": "Apollo Pharmacy",
+            "timing": "10:30 am - 09:00 pm",
+            "lat": "28.472355000000",
+            "lang": "77.513962000000"
+    }
+    , {
+            "tel": "+(91)-9310709741",
+            "add": "Shop no:G-20, MSX tower, Alpha 1 commercial belt, Greater Noida, Noida - 201310, Front of SBI bank",
+            "comp_name": "Sharma Medical",
+            "timing": "09:00 am - 09:00 pm",
+            "lat": "28.470333000000",
+            "lang": "77.510000000000"
+    }
+    , {
+            "tel": "+(91)-9810961869",
+            "add": "G-5,6 Tradex Tower 2, Commercial belt, Alpha 1-Greater Noida, Noida - 201310, Dominos",
+            "comp_name": "KRISHNA MEDIPOINT",
+            "timing": "08:30 am - 10:30 pm",
+            "lat": "28.472667000000",
+            "lang": "77.514755000000"
+    }
+    , {
+            "tel": "+(91)-8755664437",
+            "add": "Commercial belt , Dadri street, Tughalpur Village, Noida - 201310, Near bank area",
+            "comp_name": "Sharma medicos",
+            "timing": "10:00 am - 08:00 pm",
+            "lat": "28.470337000000",
+            "lang": "77.510178000000"
+    }
+    , {
+            "tel": "+(91)-9560331966",
+            "add": "Msx Tower, Shop no. G-4, Alpha 1-Greater Noida, Noida - 201310, Near HDFC bank",
+            "comp_name": "Sharma Medicos",
+            "timing": "09:30 am - 10:00 pm",
+            "lat": "28.470337000000",
+            "lang": "77.510278000000"
+    }
+    , {
+            "tel": "+(91)-9990212700",
+            "add": "Viiage hibibpur, knowledge park-V, Greater Noida, Noida - 201310, near amrapali mall & bsf camp",
+            "comp_name": "Bhagwati medical store",
+            "timing": "07:00 am - 07:00 pm",
+            "lat": "28.475045000000",
+            "lang": "77.513947000000"
+    }
+    , {
+            "tel": "+(91)-9953581210",
+            "add": "Sh No. 2/14, C-Block Market, Alpha-1, Greater Noida, Noida - 201310, Near Post Office",
+            "comp_name": "Garg Medical Store",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.474667000000",
+            "lang": "77.513333000000"
+    }
+    , {
+            "tel": "+(91)-8860893793",
+            "add": "Shop No 7 lagerstroemia shopping complex, Greater Noida, Noida - 201310, Near Kailash Hospital",
+            "comp_name": "Aashirwad Pharmacy",
+            "timing": "10:00 am - 10:00 pm",
+            "lat": "28.470233000000",
+            "lang": "77.505888000000"
+    }
+    , {
+            "tel": "+(91)-8287943942",
+            "add": "Shop n 7 lagerstroemia shopping complex, Greater Noida, Noida - 201310, Nr kelash hospital",
+            "comp_name": "Prince medicos",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.470155000000",
+            "lang": "77.506028000000"
+    }
+    , {
+            "tel": "+(91)-9650565582",
+            "add": "GF-23 Parsavnath Bibhab Plaza, Alpha-1, Commercial Belt, Greater Noida, Noida - 201310, Near Honey money top",
+            "comp_name": "Sai Imaging",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.472817000000",
+            "lang": "77.513847000000"
+    }
+    , {
+            "tel": "+(91)-8750506222",
+            "add": "Shop no 6, mahendera pradhan market, Tugalpur, Greater Noida, Noida - 201310",
+            "comp_name": "Sharma enterprises",
+            "timing": "11:00 am - 07:00 pm",
+            "lat": "28.467000000000",
+            "lang": "77.503500000000"
+    }
+    , {
+            "tel": "+(91)-9911074233",
+            "add": "Shop no 5 mahendar pradhan market , Tugulpur , Greater Noida, Noida - 201310, Near global college",
+            "comp_name": "Sharma pharma",
+            "timing": "09:00 am - 08:30 pm",
+            "lat": "28.466833000000",
+            "lang": "77.503333000000"
+    }
+    , {
+            "tel": "+(91)-120-2396055",
+            "add": "G-20, Krisna Apra Plaza, Greater Noida, Noida - 201310, Beside HDFC Bank, Alpha-I, Comm Belt",
+            "comp_name": "Sharma Medicos",
+            "timing": "09:30 am - 10:00 pm",
+            "lat": "28.470537166667",
+            "lang": "77.510147083333"
+    }
+    , {
+            "tel": "+(91)-120-4248499",
+            "add": "AC 12,Alfa1, C market, Noida - 201310, Infront Of Kailash Hospital",
+            "comp_name": "V R Medicos",
+            "timing": "09:00 am - 10:00 pm",
+            "lat": "28.474620000000",
+            "lang": "77.509247000000"
+    }
+    , {
+            "tel": "+(91)-9716063016",
+            "add": "Shop No. 2/20, C-Block Mkt, C Market,alpha-1st, Greater Noida, Noida - 201310, Near Post Office",
+            "comp_name": "Pawan Medical Store",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.474758000000",
+            "lang": "77.509812000000"
+    }
+    , {
+            "tel": "+(91)-9818285580",
+            "add": "G block market, Sivani estates, Greater Noida, Noida - 201310, Near navin hospital",
+            "comp_name": "Sarla medical store",
+            "timing": "10:30 am - 09:00 pm",
+            "lat": "28.478200000000",
+            "lang": "77.517897000000"
+    }
+    , {
+            "tel": "+(91)-9990051744",
+            "add": "Shop 19 f block, Savani estates , Greater Noida, Noida - 201310, Near navin hospital",
+            "comp_name": "Sarla Medicare LLp.",
+            "timing": "10:30 am - 10:00 pm",
+            "lat": "28.478172000000",
+            "lang": "77.517983000000"
+    }
+    , {
+            "tel": "+(91)-9350170437",
+            "add": "Shop no.21, F block market, Sivani estates, Greater Noida, Noida - 201310, Near Shiv mandir",
+            "comp_name": "Health Care Pharmacy",
+            "timing": "10:30 am - 09:30 pm",
+            "lat": "28.478028000000",
+            "lang": "77.518220000000"
+    }
+    , {
+            "tel": "+(91)-9911006065",
+            "add": "Shop 15, F block market, Sivani estates, Greater Noida, Noida - 201310, Near navin hospital",
+            "comp_name": "Ratan medicos PVT. Ltd.",
+            "timing": "10:00 am - 09:00 pm",
+            "lat": "28.477945000000",
+            "lang": "77.518258000000"
+    }
+    , {
+            "tel": "+(91)-120-2321534",
+            "add": "Shop No 15, Alpha-II, Block F Market, Greater Noida, Noida - 201310, Near Naveen Hospital",
+            "comp_name": "Ratan Medicos Pvt Ltd",
+            "timing": "10:00 am - 10:00 pm",
+            "lat": "28.477920000000",
+            "lang": "77.518180000000"
+    }
+    , {
+            "tel": "+(91)-7827737277",
+            "add": "Rishi market, Kasna Main Road, Greater Noida, Noida - 201310, Near Kasna Bus Stand",
+            "comp_name": "Bhati medical store",
+            "timing": "07:00 am - 08:30 pm",
+            "lat": "28.474199000000",
+            "lang": "77.503517000000"
+    }
+    , {
+            "tel": "+(91)-120-2325584",
+            "add": "Shop Number-9, Eldico Arcade Shoping Complex, Greater Noida, Noida - 201310, Sector-PI, Near Eldeco Society",
+            "comp_name": "Acropolis Chemist Shop",
+            "timing": "09:00 am - 09:00 pm",
+            "lat": "28.474199000000",
+            "lang": "77.503517000000"
+    }
+    , {
+            "tel": "+(91)-9540240592",
+            "add": "shop no 6 c block market, delta -1st, Greater Noida, Noida - 201310, near green city hospital",
+            "comp_name": "Sharma medicos & Cosmetics",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.483355000000",
+            "lang": "77.526283000000"
+    }
+    , {
+            "tel": "+(91)-11-33431783",
+            "add": "Shop Number 15, H Block Market, Alpha 2-Greater Noida, Noida - 201310",
+            "comp_name": "Life Care Pharmacy & Skin Clinic",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.478930000000",
+            "lang": "77.518180000000"
+    }
+    , {
+            "tel": "+(91)-120-4245452",
+            "add": "S No.- 15, Main market, Greater Noida, Noida - 201310, Near gas agency",
+            "comp_name": "LIFE CARE Pharmacy",
+            "timing": "10:00 am - 09:30 pm",
+            "lat": "28.478870000000",
+            "lang": "77.518150000000"
+    }
+    , {
+            "tel": "+(91)-9794893742",
+            "add": "Shavni market, Market street, Beta 2-Greater Noida, Noida - 201310, Near main market",
+            "comp_name": "Astha Medicos",
+            "timing": "11:00 am - 09:00 pm",
+            "lat": "28.478905000000",
+            "lang": "77.518295000000"
+    }
+    , {
+            "tel": "+(91)-8510888267",
+            "add": "Sahi complex, Beta 1-Greater Noida, Noida - 201310, Near petrol pump",
+            "comp_name": "Life care pharmacy",
+            "timing": "10:00 am - 10:00 pm",
+            "lat": "28.478875000000",
+            "lang": "77.518263000000"
+    }
+    , {
+            "tel": "+(91)-9958581569",
+            "add": "Shop No 101, GM MALL , Jagat Farm, Gamma 1-Greater Noida, Noida - 201310, Near Honey Money Top",
+            "comp_name": "New Universal Medicare",
+            "timing": "10:00 am - 10:00 pm",
+            "lat": "28.478220000000",
+            "lang": "77.499795000000"
+    }
+    , {
+            "tel": "+(91)-120-6400200",
+            "add": "GF-102,GM MALL, Jagat farm, Greater Noida, Noida - 201310, Near honey money top",
+            "comp_name": "NEW UNIVERSAL MEDICARE",
+            "timing": "10:30 am - 10:30 pm",
+            "lat": "28.477597000000",
+            "lang": "77.499230000000"
+    }
+    , {
+            "tel": "+(91)-9958045115",
+            "add": "main market, Beta 1-Greater Noida, Noida - 201310, rampur jagir",
+            "comp_name": "Verma medical store",
+            "timing": "10:00 am - 09:00 pm",
+            "lat": "28.480167000000",
+            "lang": "77.504067000000"
+    }
+    , {
+            "tel": "+(91)-9999880287",
+            "add": "Shop Number- A- 10, f block market, Kasana street, Beta 2-Greater Noida, Noida - 201310, Near thana",
+            "comp_name": "Harsh Medicos",
+            "timing": "09:30 am - 08:00 pm",
+            "lat": "28.482675000000",
+            "lang": "77.510187000000"
+    }
+    , {
+            "tel": "+(91)-9990212488",
+            "add": "Shop no.A1, f-block market, Beta -2, Greater Noida, Noida - 201310, Near Kasna police satation",
+            "comp_name": "Singh medical Store",
+            "timing": "08:30 am - 08:30 pm",
+            "lat": "28.482158000000",
+            "lang": "77.509963000000"
+    }
+    , {
+            "tel": "+(91)-9717617651",
+            "add": "Shop no 3 beta 1, Beta -1, Greater Noida, Noida - 201310, Near reliance fresh",
+            "comp_name": "R X pharmacy",
+            "timing": "10:00 am - 10:00 pm",
+            "lat": "28.477475000000",
+            "lang": "77.507788000000"
+    }
+    , {
+            "tel": "+(91)-9650367959",
+            "add": "shop no 3, gulmohar market, beta-1st, Greater Noida, Noida - 201310, near reliance fresh",
+            "comp_name": "RX PHARMACY",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.477578000000",
+            "lang": "77.508125000000"
+    }
+    , {
+            "tel": "+(91)-8800293080",
+            "add": "Shop no gf 42, Greater Noida, Noida - 201310, Gaur city plaza",
+            "comp_name": "Way 2 wellness",
+            "timing": "10:00 am - 09:00 pm",
+            "lat": "28.474199000000",
+            "lang": "77.503517000000"
+    }
+    , {
+            "tel": "+(91)-7840865016",
+            "add": "Azad vihar,Khora Colony, Greater Noida, Noida - 201310",
+            "comp_name": "Shiv Medical Store",
+            "timing": "10:00 am - 09:00 pm",
+            "lat": "28.474199000000",
+            "lang": "77.503517000000"
+    }
+    , {
+            "tel": "+(91)-7503338666",
+            "add": "Dadri road, Greater Noida, Noida - 201310, Near Arya Samaj Mandir,suraj pur",
+            "comp_name": "Nandan Medical Store",
+            "timing": "09:30 am - 06:30 pm",
+            "lat": "28.484333000000",
+            "lang": "77.507500000000"
+    }
+    , {
+            "tel": "+(91)-9999220387",
+            "add": "Shop No.7, Delta-2 shopping Complex, delta-2, Greater Noida, Noida - 201310, near mother dairy",
+            "comp_name": "Green Apple Pharmacy",
+            "timing": "07:00 am - 09:00 pm",
+            "lat": "28.488880000000",
+            "lang": "77.520462000000"
+    }
+    , {
+            "tel": "+(91)-9717369616",
+            "add": "shop no 12, Greater Noida, Noida - 201310, delta-2 market , near sharma hospital",
+            "comp_name": "Green Apple Pharmacy",
+            "timing": "10:00 am - 09:00 pm",
+            "lat": "28.488817000000",
+            "lang": "77.520522000000"
+    }
+    , {
+            "tel": "+(91)-120-2326729",
+            "add": "Shop No- 20 ,delta Shopping Complex, Delta-2, Greater Noida, Noida - 201310, Next to community Centre",
+            "comp_name": "Aryavart Medicos",
+            "timing": "08:30 am - 02:00 pm  04:00 pm - 10:00 pm",
+            "lat": "28.488647000000",
+            "lang": "77.520395000000"
+    }
+    , {
+            "tel": "+(91)-9310428869",
+            "add": "Amritpuram market, Jagat farm, Gamma 1-Greater Noida, Noida - 201310, Near pragyan school",
+            "comp_name": "Shri amrit pharmacy",
+            "timing": "10:30 am - 09:00 pm",
+            "lat": "28.479825000000",
+            "lang": "77.500830000000"
+    }
+    , {
+            "tel": "+(91)-9310492123",
+            "add": "Shop no.3, Amritpuram Market, Jagat farm, Greater Noida, Noida - 201310, Near Pragyan School",
+            "comp_name": "Vijay Medicos",
+            "timing": "10:00 am - 08:00 pm",
+            "lat": "28.479472000000",
+            "lang": "77.501070000000"
+    }
+    , {
+            "tel": "+(91)-8802903767",
+            "add": "Shop no 28, Gamma 1, Greater Noida, Noida - 201310, Near jagat farm",
+            "comp_name": "Gupta medicos",
+            "timing": "09:00 am - 09:30 pm",
+            "lat": "28.479442000000",
+            "lang": "77.501053000000"
+    }
+    , {
+            "tel": "+(91)-9313542480",
+            "add": "Shop no.3, , Amritpuram plaza , Greater Noida, Noida - 201310, Near pragyan school",
+            "comp_name": "Vijay Medicose",
+            "timing": "10:00 am - 09:30 pm",
+            "lat": "28.479438000000",
+            "lang": "77.501038000000"
+    }
+    , {
+            "tel": "+(91)-9999072258",
+            "add": "Rampur jagir market, Beta-1st, Greater Noida, Noida - 201310, Near axis bank atm",
+            "comp_name": "Mavi Medical Store",
+            "timing": "09:30 am - 09:00 pm",
+            "lat": "28.483030000000",
+            "lang": "77.508628000000"
+    }
+    , {
+            "tel": "+(91)-9213813969",
+            "add": "Shop no.-1, Main market, Greater Noida, Noida - 201310, Main Mkt,Rampur Jagir,D BLK,Beta-1",
+            "comp_name": "Sai Medical Store",
+            "timing": "08:00 am - 09:00 pm",
+            "lat": "28.484989138889",
+            "lang": "77.506111138889"
+    }
+    , {
+            "tel": "+(91)-8505853628",
+            "add": "beta 1 main market, rampur, Beta 1-Greater Noida, Noida - 201310, near greater noida authority",
+            "comp_name": "Sai medical Store",
+            "timing": "09:30 am - 07:30 pm",
+            "lat": "28.484913000000",
+            "lang": "77.506037000000"
+    }
+    , {
+            "tel": "+(91)-8376979621",
+            "add": "Gm mall, Shop no 102, Gamma 1-Greater Noida, Noida - 201310, Jagat farm",
+            "comp_name": "New Universal Medicare",
+            "timing": "09:30 am - 08:30 pm",
+            "lat": "28.481067000000",
+            "lang": "77.499863000000"
+    }
+    , {
+            "tel": "+(91)-7053132396",
+            "add": "shop no. 102, GM mall, jagat farm, Gamma 1-Greater Noida, Noida - 201310, near pnb atm",
+            "comp_name": "Chemist Shop",
+            "timing": "10:00 am - 08:00 pm",
+            "lat": "28.481012000000",
+            "lang": "77.499833000000"
+    }
+    , {
+            "tel": "+(91)-9136380908",
+            "add": "Shop-No-1, Main Dadri road rampur , Beta 2-Greater Noida, Noida - 201310, Next to cm market",
+            "comp_name": "Sisodiya Medical Store",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.484750000000",
+            "lang": "77.507300000000"
+    }
+    , {
+            "tel": "+(91)-120-4290027",
+            "add": "Shop No-60 guru bakash plaza , Jagat farm gamma-1st , Greater Noida, Noida - 201310, Near PNB bank jagat farm",
+            "comp_name": "Long Life Medicos",
+            "timing": "10:00 am - 09:00 pm",
+            "lat": "28.480767000000",
+            "lang": "77.500092000000"
+    }
+    , {
+            "tel": "+(91)-9650286262",
+            "add": "jagat farm, Beta 1-Greater Noida, Noida - 201310, Rampur jagir",
+            "comp_name": "Gaurav medical store",
+            "timing": "10:00 am - 09:00 pm",
+            "lat": "28.483938000000",
+            "lang": "77.506247000000"
+    }
+    , {
+            "tel": "+(91)-9953900064",
+            "add": "SHOP NO-12 A, Rampur Jagir, Beta 1-Greater Noida, Noida - 201310, Near Axis Bank Atm",
+            "comp_name": "RIDDHI MEDICOSE",
+            "timing": "09:00 am - 09:30 pm",
+            "lat": "28.483938000000",
+            "lang": "77.506247000000"
+    }
+    , {
+            "tel": "+(91)-9457285851",
+            "add": "shop no.1 A R plaza, Beta 1, Beta 1-Greater Noida, Noida - 201310, Near icici atm",
+            "comp_name": "Vishesh medicose",
+            "timing": "09:00 am - 10:00 pm",
+            "lat": "28.483600000000",
+            "lang": "77.505767000000"
+    }
+    , {
+            "tel": "+(91)-120-2321019",
+            "add": "Shop-No-39,Gamma-2 market, gamma 2, Greater Noida, Noida - 201310, Near Authority Office,Gamma-2",
+            "comp_name": "Evergreen Pharma",
+            "timing": "08:00 am - 09:30 pm",
+            "lat": "28.491060000000",
+            "lang": "77.509654000000"
+    }
+    , {
+            "tel": "+(91)-120-4552640",
+            "add": "Shop No-30, Gamma 2-greater Noida, Noida - 201310, Near Authority",
+            "comp_name": "Medi Plus Phrmacy",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.488342000000",
+            "lang": "77.506255000000"
+    }
+    , {
+            "tel": "+(91)-9555510445",
+            "add": "Shop no-25 Gama-, Evergreen market near Authority, Gamma 1-Greater Noida, Noida - 201310",
+            "comp_name": "Shri Ram Medicose",
+            "timing": "08:00 am - 11:00 pm",
+            "lat": "28.488397583333",
+            "lang": "77.506416305556"
+    }
+    , {
+            "tel": "+(91)-120-6526645",
+            "add": "Shop Number-26, Gamma Shopping Complex, Greater Noida, Noida - 201310, Behind Ever Green Sweets",
+            "comp_name": "Tabs & Caps Chemist",
+            "timing": "11:00 am - 11:00 pm",
+            "lat": "28.488425000000",
+            "lang": "77.506487000000"
+    }
+    , {
+            "tel": "+(91)-8800578336",
+            "add": "S-6 Gamma Shopping Complex, Jagat Farm ,Gamma-1, Greater Noida, Noida - 201310, Opp Ishan College",
+            "comp_name": "Dev Medicos",
+            "timing": "12:00 am - 11:59 pm",
+            "lat": "28.481338000000",
+            "lang": "77.498505000000"
+    }
+    , {
+            "tel": "+(91)-120-4259060",
+            "add": "Shop No 6 ,Gamma Shopping Mall, Jagat Farm, Gamma 1-Greater Noida, Noida - 201310, Near Corporation Bank",
+            "comp_name": "Dev Medicos",
+            "timing": "12:00 am - 11:59 pm",
+            "lat": "28.481425000000",
+            "lang": "77.498733000000"
+    }
+    , {
+            "tel": "+(91)-8860041925",
+            "add": "Shop No-G-19,beta 1, Lal market , Beta 1-Greater Noida, Noida - 201310, near kanha restaurant",
+            "comp_name": "Harsh Homeopathic Medical Store",
+            "timing": "10:30 am - 09:30 pm",
+            "lat": "28.485438000000",
+            "lang": "77.506737000000"
+    }
+    , {
+            "tel": "+(91)-9810560636",
+            "add": "Shop-No-1, Beta 1, Beta 1-Greater Noida, Noida - 201310, Near shahid Bhagat Singh chowk",
+            "comp_name": "Sai medical store",
+            "timing": "09:30 am - 09:30 pm",
+            "lat": "28.484950000000",
+            "lang": "77.505928000000"
+    }
+    , {
+            "tel": "+(91)-9971343855",
+            "add": "Kashyap Colony, Barola-Noida Sector 49, Noida - 203207, Near Samvedna Hospital",
+            "comp_name": "Abhishek medical store",
+            "timing": "10:00 am - 10:00 pm",
+            "lat": "28.555522000000",
+            "lang": "77.569948000000"
+    }
+    , {
+            "tel": "+(91)-9811668811",
+            "add": "Main Road, Greater Noida, Noida - 201310, Surajpur, G B Nagar",
+            "comp_name": "Devdhar Medicos & Cosmetics",
+            "timing": "08:30 am - 08:30 pm",
+            "lat": "28.512688000000",
+            "lang": "77.479095000000"
+    }
+    , {
+            "tel": "+(91)-9560707778",
+            "add": "Shop No. 2, Dadri road, Surajpur Site 4, Noida - 201310, Near Arya samaj MANDIR",
+            "comp_name": "Raj Medical store",
+            "timing": "09:30 am - 08:30 pm",
+            "lat": "28.512853000000",
+            "lang": "77.479775000000"
+    }
+    , {
+            "tel": "+(91)-9717204035",
+            "add": "holi chowk, dadri road, Greater Noida, Noida - 201310, mohan mandir gali",
+            "comp_name": "Om medical store",
+            "timing": "09:30 am - 09:00 pm",
+            "lat": "28.511547000000",
+            "lang": "77.481195000000"
+    }
+    , {
+            "tel": "+(91)-9971977467",
+            "add": "surajpur, Mohan Mandir Wali Gali, Greater Noida, Noida - 201310, Near Suraj Clicnic",
+            "comp_name": "Om Medical Store",
+            "timing": "09:00 am - 06:30 pm",
+            "lat": "28.511530000000",
+            "lang": "77.481200000000"
+    }
+    , {
+            "tel": "+(91)-9990077471",
+            "add": "tilpata market, main road dadri, Greater Noida, Noida - 201310",
+            "comp_name": "Vipin medical store",
+            "timing": "08:00 am - 10:30 pm",
+            "lat": "28.526975000000",
+            "lang": "77.526528000000"
+    }
+    , {
+            "tel": "+(91)-9560714040",
+            "add": "shop no 18 A,avj heights, sect-zeta-1st, Greater Noida, Noida - 201310, in avj heights society",
+            "comp_name": "Shri balaji medicos",
+            "timing": "08:30 am - 08:00 pm",
+            "lat": "28.498055000000",
+            "lang": "77.519858000000"
+    }
+    , {
+            "tel": "+(91)-8826992232",
+            "add": "Shop No-15,16 ,ground floor, Greater Noida, Noida - 201310, avj heights market ,Zeta 1",
+            "comp_name": "Apollo Pharmacy",
+            "timing": "08:00 am - 10:00 pm",
+            "lat": "28.497987000000",
+            "lang": "77.519805000000"
+    }]
+}

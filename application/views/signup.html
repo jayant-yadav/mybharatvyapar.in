@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>myBharatVyapar|signup</title>
+    <script src="http://localhost/final_project_1/application/views/library/js/vendor/modernizr.js"></script>
+    <link href="http://localhost/final_project_1/application/views/app_signup.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/json2/20150503/json2.min.js" />
+<!--        <link href="https://code.jquery.com/jquery-1.11.3.min.js"/>-->
+<!--    <script src="http://localhost/final_project_1/application/views/library/js/vendor/jquery.js"></script>-->
+    <script src="http://localhost/final_project_1/application/views/library/js/jquery-1.11.3.min.js"></script>
+    <script src="http://localhost/final_project_1/application/views/application/signup.js"></script>
+
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.2/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+    <h1>Registration</h1>
+    <div class="row">
+        <div class="large-12 columns">
+            <div class="box">
+                <!--<div class="large-5 cloumns large-centered">
+            <div class="login-box">
+                <h2>Sign up</h2>
+                <form action="../api/index.php/user/login_view" id='frm_login'>
+                    <label for="username">Username: </label>
+                    <input id="username" type="email" placeholder="Email Id" />
+                    <label for="password">Password: </label>
+                    <input id="password" type="password" />
+                    <input type="submit" id="submit" value="login" onclick="submit_login()">
+                                   <a href="#" class="button" onclick="localhost/minor/api/index.php/user/login_view">Submit</a>
+                </form>
+            </div>
+        </div>-->
+
+                <form action="#" method="post">
+                    <div class="input-field col s6">
+                        <i class="mdi-action-perm-identity prefix"></i>
+                        <input id="fname" type="text" class="validate" name="fname">
+                        <label for="fname">First Name</label>
+                    </div>
+                    <div class="input-field col s6">
+                        <i class="mdi-social-person prefix"></i>
+                        <input id="lname" type="text" class="validate" name="lname">
+                        <label for="lname">Last Name</label>
+                    </div>
+
+                    <div class="col s6">
+                        <p>Gender:</p>
+                        <input class="with-gap" name="gender" type="radio" id="gender1" value="female" />
+                        <label for="gender1">Female</label>
+                        <input class="with-gap" name="gender" type="radio" id="gender2" value="male" />
+                        <label for="gender2">Male</label>
+                    </div>
+
+                    <div class="col s6">
+                        <p>Vendor:</p>
+                        <div class="switch">
+                            <label>
+                                NO
+                                <input type="checkbox" id="checkbox" name="vendor">
+                                <!--TODO: checkbox returns true or false. convert to value=0 or 1.-->
+                                <span class="lever"></span> YES
+                            </label>
+                        </div>
+                        <p id="demo"></p>
+                    </div>
+
+                    <!--<label>
+                        <br />Vendor: Yes
+                        <input type="radio" value="1" name="vendor" id="vendor"> NO
+                        <input type="radio" value="0" name="vendor" id="vendor">
+                    </label>-->
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <i class="mdi-maps-local-post-office prefix"></i>
+                            <input value="" id="email" type="email" class="validate" name="email">
+                            <label for="email">Email</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <i class="small material-icons prefix">lock</i>
+                            <input id="password" type="password" class="validate" name="password">
+                            <label for="email">Password</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <i class="mdi-communication-phone prefix"></i>
+                            <input value="" id="icon_telephone" type="tel" class="validate" name="phno">
+                            <label for="icon_telephone">Phone No.:</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="input-field col s6">
+                            <i class="mdi-action-today prefix"></i>
+                            <label for="date">DOB:</label>
+
+                            <input type="date" class="datepicker" name="dob">
+
+                        </div>
+                    </div>
+                    <!--<input type="submit" value="submit" class="button">-->
+                    <button type="submit" class="btn">Submit</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+   
+    /*function myfunc() {
+        var x = document.getElementById("checkbox").checked;
+        if (x == true) {
+            x.value = 1;
+            document.getElementById("demo").innerHTML = x;
+        } else {
+            document.getElementById("demo").innerHTML = x;
+        }
+    }*/
+</script>
+
+</html>

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+    <title>@iSaveLife</title>
+
+    <!-- CSS  -->
+    <link href="libraries/materialize/dist/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script id="digits-sdk" src="https://cdn.digits.com/1/sdk.js" async></script>
+    <style>
+        /* label color */
+        
+        .input-field label {
+            color: firebrick;
+        }
+        /* label focus color */
+        
+        .input-field input[type=text]:focus + label {
+            color: firebrick;
+        }
+        /* label underline focus color */
+        /* valid color */
+        /* icon prefix focus color */
+        
+        .input-field .prefix.active {
+            color: firebrick;
+        }
+    </style>
+
+</head>
+
+<body class="">
+
+    <section class="header-holder"></section>
+
+    <section class="mt-50 mb-50">
+        <div class="container">
+            <!--<h3 class="red-text">What we do</h3>-->
+            <p>As it so contrasted oh estimating instrument. Size like body some one had. Are conduct viewing boy minutes warrant expense. Tolerably behaviour may admitting daughters offending her ask own. Praise effect wishes change way and any wanted. Lively use looked latter regard had. Do he it part more last in. Merits ye if mr narrow points. Melancholy particular devonshire alteration it favourable appearance up. </p </div>
+    </section>
+
+    <section class="container">
+        <div class="row card-panel text-center" id="content">
+            <form class="col s12" id="request-form">
+                <div class="row">
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-action-perm-identity prefix"></i>-->
+                        <input id="first_name" type="text" class="validate" name="first_name">
+                        <label for="first_name">First Name</label>
+                    </div>
+
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="last_name" type="text" class="validate" name="last_name">
+                        <label for="last_name">Last Name</label>
+                    </div>
+
+                    <!--<div class="row">
+                        <input type="checkbox" id="male" name="gender" />
+                        <label for="gender"> male</label>
+                        <input type="checkbox" id="female" name="gender" />
+                        <label for="gender">female</label>
+                    </div>-->
+
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="email" type="text" class="validate" name="email">
+                        <label for="email">Email</label>
+                    </div>
+
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="password" type="password" class="validate" name="password">
+                        <label for="password">password</label>
+                    </div>
+
+
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="phone" type="text" class="validate" name="phone">
+                        <label for="phone">Phone</label>
+                    </div>
+
+
+                </div>
+
+                <div class="row">
+                    <div class="g-recaptcha" data-sitekey="6LemIAgTAAAAACc9Izjv-XA1qpW6WXnNzYJH--98"></div>
+                </div>
+                <div class="row">
+                    <div class="btn waves-effect waves-light green digits-verification" id="mob-verification" type="button">
+                        Verify your Mobile Number
+                    </div>
+                </div>
+                <div class="row center">
+
+
+                    <div>
+                        <button class="btn waves-effect waves-light red btn-large trigger-raise-request" type="button">Submit <i class="mdi-content-send right"></i> </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+
+
+    <section class="footer-holder"></section>
+
+    <!--  Scripts-->
+    <script src="libraries/jquery/dist/jquery.js"></script>
+        <script src="libraries/materialize/dist/js/materialize.js"></script>
+        <script src="libraries/jquery.serializejson.min.js"></script>
+        <!--<script src="libraries/ManifestoFramework.js"></script>
+        <script src="libraries/modules/logger.js"></script>
+        <script src="libraries/modules/gps.js"></script>
+        <script src="application/init.js"></script>-->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false"></script>
+    <!--
+        <script src="libraries/moment.min.js"></script>
+        <script src="application/apiservices.js"></script>
+        
+        
+-->
+    <script>
+        document.getElementById('digits-sdk').onload = function () {
+            var digits = document.getElementById("mob-verification");
+            digits.addEventListener('click', login);
+
+            /* Initialize Digits SDK using your application's consumer key. */
+            Digits.init({
+                    consumerKey: 'gmoaaZhEG88hMQUdpWHnF1IAz'
+                })
+                .done(function () {
+                    console.log("Digits is initialized");
+                    // Digits.getLoginStatus()
+                    //   .done(onLoginStatus)
+                    //   .fail(onLoginStatusFailure);
+                })
+                .fail(function () {
+                    console.log("Digits failed to initialize");
+                })
+
+            /* Launch the Login to Digits flow. */
+            function login() {
+                console.log('SDK Start Login flow');
+
+                Digits.logIn()
+                    .done(onLogin)
+                    .fail(onLoginFailure);
+            }
+
+            function onLoginStatus(loginStatusResponse) {
+                console.log('Login status: ', loginStatusResponse);
+            }
+
+            function onLoginFailure(error) {
+                console.log('Login error: ', error);
+            }
+
+            function onLoginStatusFailure(error) {
+                console.log('Login status error: ', error);
+            }
+/*
+            function onLogin(loginResponse) {
+                console.log('oAuthEcho Headers: ', loginResponse);
+                var oAuthHeaders = parseOAuthHeaders(loginResponse.oauth_echo_headers);
+                var requestUrl = ["curl '", oAuthHeaders.apiUrl, "' -H 'Authorization: ", oAuthHeaders.headers, "'"].join('');
+                console.log('cURL:');
+                console.log('', requestUrl);
+                var env = {
+                    type : 'GET' ,
+                    url: requestUrl,
+                    contentType: 'application/json; charset=utf-8',
+                    success: function(){
+                        console.log("hurray");
+                    }
+                }
+                $.ajax(env);
+            }*/
+/* Validate and log use in. */
+function onLogin(loginResponse){
+  // Send headers to your server and validate user by calling Digits’ API
+  var oAuthHeaders = loginResponse.oauth_echo_headers;
+  var verifyData = {
+    authHeader: oAuthHeaders['X-Verify-Credentials-Authorization'],
+    apiUrl: oAuthHeaders['X-Auth-Service-Provider']
+  };
+
+  $.post('/verify', verifyData)
+    .done(function(){ window.reload(); });
+}
+            function parseOAuthHeaders(oAuthEchoHeaders) {
+                var credentials = oAuthEchoHeaders['X-Verify-Credentials-Authorization'];
+                var apiUrl = oAuthEchoHeaders['X-Auth-Service-Provider'];
+
+                return {
+                    apiUrl: apiUrl,
+                    headers: credentials
+                };
+            }
+        };
+    </script>
+
+</body>
+
+</html>

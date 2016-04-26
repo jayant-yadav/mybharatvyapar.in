@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+    <title>REDConnect</title>
+    
+    <!-- CSS  -->
+    <link href="libraries/materialize/dist/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=false"></script>
+</head>
+<body class="">
+    
+    <section class="header-holder"></section>
+    
+    <section class="mt-50 mb-50">
+        <div class="container">
+            <!--<h3 class="red-text">What we do</h3>-->            
+            <p>As it so contrasted oh estimating instrument. Size like body some one had. Are conduct viewing boy minutes warrant expense. Tolerably behaviour may admitting daughters offending her ask own. Praise effect wishes change way and any wanted. Lively use looked latter regard had. Do he it part more last in. Merits ye if mr narrow points. Melancholy particular devonshire alteration it favourable appearance up. </p
+        </div>
+    </section>
+        
+    <section class="container">
+        <div class="row card-panel text-center" id="content" >
+            <form class="col s12" id="request-form" onsubmit="return validateForm()" method="post">
+                <div class="row">
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-action-perm-identity prefix"></i>-->
+                        <input id="first_name" type="text" class="validate" name="first_name" maxlength="40" pattern="^[a-zA-Z][a-zA-Z0-9-_\.]{1,40}$">
+                        <label for="first_name" data-error="wrong input">First Name</label>
+                    </div>
+                    
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="last_name" type="text" class="validate" name="last_name" maxlength="40" pattern="^[a-zA-Z][a-zA-Z0-9-_\.]{1,40}$">
+                        <label for="last_name" data-error="wrong input">Last Name</label>
+                    </div>
+                    
+                    <div class="input-field col m6 s12">
+                        <select name="type" id="type">
+                            <option value="" selected>ANY</option>
+                            <option value="food">food</option>
+                            <option value="store">store</option>
+                            <option value="stationary">stationary</option>
+                            <option value="machanics">machanics</option>
+                            <option value="handicraft">handicraft</option>
+                        </select>
+                        <label for="blood_group">Shop Type</label>
+                    </div>
+                    
+                    
+                    <div class="input-field col m12 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="add" type="text" class="validate" name="add" maxlength="50" pattern="^[a-zA-Z][a-zA-Z0-9-_\.]{1,50}$">
+                        <label for="add" data-error="wrong">Address</label>
+                        <small>The name and address of your shop.</small>
+                    </div>
+                    
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="email" type="email" class="validate" name="email" maxlength="100" autocomplete="on">
+                        <label for="email" data-error="wrong input">Email</label>
+                    </div>
+                    
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="date" type="date" class="validate datepicker" name="required_on">
+                        <label for="date">DOB</label>
+                    </div>
+                    
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="phone" type="text" class="validate" name="phone" maxlength="10" pattern="\d{10}">
+                        <label for="phone">Mobile Phone</label>
+                    </div>
+                    
+                    <div class="input-field col m6 s12">
+                        <!--<i class="mdi-social-person prefix"></i>-->
+                        <input id="aphone" type="text" class="validate" name="alt_phone" maxlength="10" pattern="\d{10}">
+                        <label for="aphone">Alt. Mobile Phone</label>
+                    </div>                                        
+                </div>
+                <div class="row">
+                    <div class="g-recaptcha" data-sitekey="6LemIAgTAAAAACc9Izjv-XA1qpW6WXnNzYJH--98"></div>
+                </div>                
+                <div class="row center">
+                    <div>
+                        <button class="btn waves-effect waves-light red btn-large trigger-raise-request" type="button"  name="action" >Submit <i class="mdi-content-send right"></i> </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+        
+    
+    <section class="footer-holder"></section>
+        
+        <!--  Scripts-->
+        <script src="libraries/jquery/dist/jquery.js"></script>
+        <script src="libraries/materialize/dist/js/materialize.js"></script>
+        <script src="libraries/jquery.serializejson.min.js"></script>
+        
+        <script src="libraries/moment.min.js"></script>
+        <script src="libraries/ManifestoFramework.js"></script>
+        <script src="libraries/modules/logger.js"></script>
+        <script src="libraries/modules/gps.js"></script>
+        <script src="libraries/parsley.min.js"></script>
+        
+        <script src="application/apiservices.js"></script>
+        <script src="application/onesignalAPI.js"></script>        
+        
+        <script src="application/init.js"></script>
+
+  </body>
+</html>
